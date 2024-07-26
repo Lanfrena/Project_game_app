@@ -1,5 +1,5 @@
 ### Project_game_app
-`Стек: python, pandas, numpy, seaborn, matplotlib, scipy, bootstrap, requests, urlencode`
+⚒️ `Стек: python, pandas, numpy, seaborn, matplotlib, scipy, bootstrap, requests, urlencode`
 
 **1.** Проджект-менеджер дал задачу проанализировать данные по исследованию нескольких аспектов мобильного приложения для игр.
 
